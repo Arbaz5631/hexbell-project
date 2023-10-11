@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hexbells-project/static/css/main.d0f83403.css",
+    "main.js": "/hexbells-project/static/js/main.36e1b929.js",
+    "index.html": "/hexbells-project/index.html",
+    "main.d0f83403.css.map": "/hexbells-project/static/css/main.d0f83403.css.map",
+    "main.36e1b929.js.map": "/hexbells-project/static/js/main.36e1b929.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d0f83403.css",
+    "static/js/main.36e1b929.js"
+  ]
+}
