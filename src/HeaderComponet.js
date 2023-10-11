@@ -4,7 +4,7 @@ function HeaderComponet(props) {
   return (
     <div className={styles.header}>
       <div>
-        <img className={styles.logoImg} src={"/images/logo.png"} />
+        <img className={styles.logoImg} src={"./hexbell-project/images/logo.png"} />
       </div>
       <div className={styles.headerIcons}>
         <p className={styles.shopText}>Shop</p>
