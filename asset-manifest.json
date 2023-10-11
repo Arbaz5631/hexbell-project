@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/hexbells-project/static/css/main.d0f83403.css",
-    "main.js": "/hexbells-project/static/js/main.05f8934b.js",
-    "index.html": "/hexbells-project/index.html",
-    "main.d0f83403.css.map": "/hexbells-project/static/css/main.d0f83403.css.map",
-    "main.05f8934b.js.map": "/hexbells-project/static/js/main.05f8934b.js.map"
+    "main.css": "/hexbell-project/static/css/main.d0f83403.css",
+    "main.js": "/hexbell-project/static/js/main.2b64fbc6.js",
+    "index.html": "/hexbell-project/index.html",
+    "main.d0f83403.css.map": "/hexbell-project/static/css/main.d0f83403.css.map",
+    "main.2b64fbc6.js.map": "/hexbell-project/static/js/main.2b64fbc6.js.map"
   },
   "entrypoints": [
     "static/css/main.d0f83403.css",
-    "static/js/main.05f8934b.js"
+    "static/js/main.2b64fbc6.js"
   ]
 }
